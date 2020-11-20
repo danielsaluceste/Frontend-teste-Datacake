@@ -1,0 +1,53 @@
+.example-icon {
+    padding: 0 14px;
+  }
+  
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.card {
+    width: 80%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card2 {
+    width: 80%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topo {
+    box-shadow: 1px 1px 8px black;
+}
+
+.example-form2 {
+    width: 85%;
+    
+}
+
+.example-form {
+    width: 100%;
+    
+}
+
+.mais {
+    position: absolute;
+    right: 0px;
+    margin-right: 45px;
+    margin-top: 4px;
+}
+
+.right {
+    margin-top: 0px;
+    position: absolute;
+    right: 0px;
+    margin-right: 25px;
+}
